@@ -163,4 +163,5 @@ h2 {
     display: flex;
     align-item: center;
     gap: -30px;
+    width: fit-content;
 }
