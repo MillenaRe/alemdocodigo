@@ -162,4 +162,5 @@ h2 {
     display: flex;
     align-item: center;
     width: fit-content;
+    padding: 2px;
 }
