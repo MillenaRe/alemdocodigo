@@ -162,4 +162,5 @@ h2 {
     text-align: center;
     display: flex;
     align-item: center;
+    gap: -30px;
 }
