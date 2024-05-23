@@ -83,7 +83,7 @@ body {
     margin: 0 auto; /* Centraliza horizontalmente */
 }
 
-h1 {
+h1, h2, h3 {
     color: #88f;
 }
 
@@ -157,8 +157,8 @@ h2 {
 
 
 .table {
-    font-weight: light;
-    margin-left: 200px;
+    font-size: 15px;
+    margin-left: 150px;
     text-align: center;
     
 }
