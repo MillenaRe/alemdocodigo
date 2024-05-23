@@ -160,4 +160,6 @@ h2 {
     font-size: 15px;
     margin: 0 auto;
     text-align: center;
+    display: flex;
+    align-item: center;
 }
