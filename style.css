@@ -233,39 +233,3 @@ th, td {
 
     background-color: #b29090;
 }
-
-
-/* Estilos específicos para a tabela da ficha técnica */
-.table {
-    align-self: center;
-    margin-top: 50px;
-    width: 80%; 
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-}
-
-th, td {
-    padding: 10px;
-    text-align: center;
-    border: 1px solid #ddd;
-}
-
-th {
-    background-color: #88f;
-    color: rgb(0, 0, 0);
-}
-
-tr:nth-child(even) {
-    background-color: #2c2a2a;
-}
-
-tr:hover td {
-    background-color: rgba(48, 48, 112, 0.5);
-    transition: background-color 0.3s ease;
-}
-
