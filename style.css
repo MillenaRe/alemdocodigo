@@ -158,7 +158,7 @@ h2 {
 
 .table {
     font-size: 15px;
-    margin-left: 150px;
+    margin: 0 auto;
     text-align: center;
     width: 100%;
     
