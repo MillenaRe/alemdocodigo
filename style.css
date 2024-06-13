@@ -24,7 +24,7 @@ body {
 }
 
 .header nav ul li {
-    display: sticky;
+    display: fixed;
     margin-right: 20px;
 }
 
