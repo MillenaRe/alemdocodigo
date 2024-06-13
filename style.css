@@ -24,8 +24,8 @@ body {
 }
 
 .header nav ul li {
-    display: inline;
-    margin-right: 200px;
+    display: sticky;
+    margin-right: 20px;
 }
 
 .header nav ul li a {
